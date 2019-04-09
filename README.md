@@ -1,4 +1,1 @@
 # lbjCode
-SUP
-yo
-waddap
